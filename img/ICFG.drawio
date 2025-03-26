@@ -676,10 +676,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d1ezA-FeV2UQNvriFKlT-260" value="$$q_a$$" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090.5" y="1230" width="30" height="30" as="geometry" />
+          <mxGeometry x="184" y="2050" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d1ezA-FeV2UQNvriFKlT-261" value="$$q_b$$" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1176.5" y="1230" width="30" height="30" as="geometry" />
+          <mxGeometry x="270" y="2050" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d1ezA-FeV2UQNvriFKlT-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;dashed=1;" parent="1" source="d1ezA-FeV2UQNvriFKlT-264" target="d1ezA-FeV2UQNvriFKlT-265" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -704,10 +704,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d1ezA-FeV2UQNvriFKlT-268" value="$$q_a$$" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1090.5" y="1264" width="30" height="30" as="geometry" />
+          <mxGeometry x="184" y="2084" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d1ezA-FeV2UQNvriFKlT-269" value="$$q_b$$" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="1176.5" y="1264" width="30" height="30" as="geometry" />
+          <mxGeometry x="270" y="2084" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d1ezA-FeV2UQNvriFKlT-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#007FFF;dashed=1;" parent="1" source="d1ezA-FeV2UQNvriFKlT-272" target="d1ezA-FeV2UQNvriFKlT-273" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -985,6 +985,9 @@
         </mxCell>
         <mxCell id="wDXN8B4qk6pq2xspsjJx-16" value="$$\frac{q\in FIRST(q_b)}{q\in FOLLOW(q_a)},\frac{q\in FOLLOW(q_b)}{q\in FOLLOW(q_a)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="1970" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDXN8B4qk6pq2xspsjJx-17" value="$$\frac{}{q_b\in FOLLOW(q_a)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2070" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
